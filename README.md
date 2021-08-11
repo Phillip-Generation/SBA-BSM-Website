@@ -13,7 +13,7 @@
 * Assessment will be graded based on completion of the technical requirements listed below.
 * Be creative and have fun!
 
-**Technical Requirements:**
+## **Technical Requirements:**
 
 *  **Command Line, Git, GitHub**
 
