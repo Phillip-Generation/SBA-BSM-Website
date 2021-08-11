@@ -1,8 +1,8 @@
 # Skill Based Assessment: BSM Website
 
-**The purpose of this assignment is to assess your mastery of material covered in weeks 1-5 of class**
+**The purpose of this assignment is to assess your mastery of technical material covered in weeks 2-6 of class**
 
-**Text editor:** You can use any text editor you would like to complete your project (ex. VS Code, Atom, Notepad)
+**Text editor:** You can use any code editor you would like to complete your project (ex. VS Code, Atom, Sublime Text)
 
  **Submission:** Fork the project and create a pull request when complete. 
 
@@ -15,7 +15,7 @@
 
 **Technical Requirements:**
 
-*  Command Line, Git, Github
+*  **Command Line, Git, Github**
 
 1. Select a BSM that will be the subject of your site
 2. Fork the project found here: https://github.com/Phillip-Generation/SBA-BSM-Website
@@ -24,7 +24,7 @@
 5. Using the command line, navigate to the "resources" folder you just created and create 2 folders. One named "css" and one named "img". Navigate to the "css" folder and create a file named "style.css"
 6. Take a screen shot of your teminal showing the commands you used to complete steps 3,4,5 add it the img folder.
 
-* HMTL
+* **HMTL**
 
 7. Basic structural elements (ex. document type declaration, head tags, body tags, html tags)
 8. Page title element inside of appropriate tag
@@ -44,7 +44,7 @@
     * Radio button input
 17. A nav section with at least 2 links that takes the user to other parts of the page.
 
-* CSS
+* **CSS**
 
 18. One instance of inline CSS
 19. One instance of internal CSS
