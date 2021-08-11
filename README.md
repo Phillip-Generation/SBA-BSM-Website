@@ -9,7 +9,7 @@
 **Tip:** Make use of your resources (Google, codecademy, w3schools.com, MDN Web Docs)
 
 **Notes:**
-* You will have 3 hours to complete this assessment
+* You will have 4 hours to complete this assessment
 * Assessment will be graded based on completion of the technical requirements listed below.
 * Be creative and have fun!
 
@@ -22,7 +22,7 @@
 3. Clone a copy of the project to your local machine
 4. In the root directory of your project, use the command line to create a file named "index.html" and a folder named "resources"
 5. Using the command line, navigate to the "resources" folder you just created and create 2 folders. One named "css" and one named "img". Navigate to the "css" folder and create a file named "style.css"
-6. Take a screen shot of your teminal showing the commands you used to complete steps 3,4,5 add it the img folder.
+6. Take a screen shot of your teminal showing the commands you used to complete steps 3,4,5 add it the img folder
 
 * **HMTL**
 
