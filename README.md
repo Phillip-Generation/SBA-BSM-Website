@@ -15,7 +15,7 @@
 
 **Technical Requirements:**
 
-*  **Command Line, Git, Github**
+*  **Command Line, Git, GitHub**
 
 1. Select a BSM that will be the subject of your site
 2. Fork the project found here: https://github.com/Phillip-Generation/SBA-BSM-Website
@@ -52,6 +52,9 @@
 21. At least 2 uses of each: style by tag, style by class, style by id.
 22. One use of multiple classes on a single element
 23. A footer with your first and last name
+
+* **Git and GitHub**
+
 24. Use the appropriate Git commands to save your code to the local repository and push your code to GitHub
 
 
