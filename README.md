@@ -55,6 +55,6 @@
 
 * **Git and GitHub**
 
-24. Use the appropriate Git commands to save your code to the local repository and push your code to GitHub
+24. Use the appropriate Git commands to save your code to the local repository and push your code to GitHub and create a pull request
 
 
